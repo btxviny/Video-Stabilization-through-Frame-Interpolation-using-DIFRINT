@@ -11,7 +11,7 @@ Follow these instructions to perform video stabilization using the pretrained mo
     -Detailed instructions in [pwc-net.pytorch](https://github.com/vt-vl-lab/pwc-net.pytorch).
     I provide an alternative implementation that runs using [RAFT](https://pytorch.org/vision/main/models/raft.html) which need no custom layers but is much slower.
 1. **Download Pretrained Model:**
-   - Download the pretrained model [weights]([https://drive.google.com/file/d/1XeZ_ox6ByKGTFmJjd3M977MKkdtcX5UI/view?usp=drive_link](https://drive.google.com/drive/folders/1CeeOBN1gYuQv_9Oj73c7y056Wus8A012?usp=sharing)).
+   - Download the pretrained model [weights](https://drive.google.com/drive/folders/1CeeOBN1gYuQv_9Oj73c7y056Wus8A012?usp=sharing).
    - Extract the file and place the folder inside the root directory.
    - Download PWC pretrained [weights](https://drive.google.com/drive/folders/14wYcYymTatXWPFSvGpxJ_kkH5A0SQ_lP?usp=sharing).
    - Extract the file and place the folder inside the root directory.
