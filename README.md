@@ -28,6 +28,6 @@ Follow these instructions to perform video stabilization using the pretrained mo
      python stabilize_difrint_raft.py --in_path input_path --out_path output_path
      ```
 ## Training
-I provide the notebook `train.ipynb` which were used for training DIFRINT on the [DAVIS](https://davischallenge.org/) dataset as proposed in the original paper.
+I provide the notebook `train.ipynb` which was used for training DIFRINT on the [DAVIS](https://davischallenge.org/) dataset as proposed in the original paper.
 I provide the notebooks `train_unet_vimeo.ipynb`, `train_resnet_vimeo.ipynb` which were used for finetuning on the [Vimeo-Triplet](http://toflow.csail.mit.edu/) dataset.
  
