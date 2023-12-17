@@ -1,4 +1,4 @@
-# CAIN: Video Stabilization through Deep Frame Interpolation
+# DIFRINT: Video Stabilization through Deep Frame Interpolation
 
 This is a pytorch implementation of Video Stabilization using [DIFRINT](https://arxiv.org/abs/1909.02641).
 
